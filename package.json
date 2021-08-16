@@ -1,0 +1,28 @@
+{
+    "name": "raphaelgc",
+    "version": "1.0.0",
+    "description": "A personal card for Raphael Carneiro (@raphael-gc)",
+    "main": "card.js",
+    "bin": {
+        "raphael-gc": "./card.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/raphael-gc/npx-card"
+    },
+    "scripts": {
+        "test": "node card.js"
+    },
+    "dependencies": {
+        "boxen": "^5.0.0",
+        "chalk": "^4.1.0"
+    },
+    "keywords": [
+        "business card",
+        "npm card",
+        "npm",
+        "npx"
+    ],
+    "author": "Raphael Carneiro",
+    "license": "MIT"
+}
