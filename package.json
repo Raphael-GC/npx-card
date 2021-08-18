@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Raphael-GC/npx-card.git"
+    "url": "git+https://github.com/Raphael-GC/npx-card"
   },
   "keywords": [
     "business card",
@@ -22,9 +22,5 @@
     "npx"
   ],
   "author": "Raphael Carneiro",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Raphael-GC/npx-card/issues"
-  },
-  "homepage": "https://github.com/Raphael-GC/npx-card#readme"
+  "license": "ISC"
 }
