@@ -1,6 +1,6 @@
 {
   "name": "raphaelgc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A personal card for Raphael Carneiro (@raphael-gc)",
   "main": "card.js",
   "dependencies": {
